@@ -1,4 +1,7 @@
-# neurohack_dec_2016
+# neurohack-2016-starterkit
+
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/neurohack-2016-starterkit/Lobby)
+<a href="https://everware.rep.school.yandex.net/hub/oauth_login?repourl=https://github.com/yandexdataschool/neurohack-2016-starterkit"><img src="https://img.shields.io/badge/run%20me-%40everware-blue.svg" /></a>
 
 Информацию по контесту можно посмотреть [здесь](contest.md).
 
