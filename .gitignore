@@ -1,0 +1,5 @@
+task_1/predictions/
+__pycache__
+*.h5
+*.csv
+*.ipynb_checkpoints*

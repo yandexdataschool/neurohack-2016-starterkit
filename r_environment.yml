@@ -1,0 +1,6 @@
+name: r_env
+channels:
+  - r
+dependencies:
+  - r-essentials=1.4.3
+  - jupyter
