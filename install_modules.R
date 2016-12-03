@@ -5,3 +5,6 @@ install.packages("xgboost", repos="http://dmlc.ml/drat/", type = "source")
 
 # hdf5 support
 install.packages("h5", repos="https://cran.rstudio.com");
+
+# mlr
+install.packages("mlr", repos="https://cran.rstudio.com");
