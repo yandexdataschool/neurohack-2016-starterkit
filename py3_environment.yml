@@ -12,6 +12,8 @@ dependencies:
   - theano=0.8.2
   - lasagne=0.1
   - scikit-learn=0.18.1
+  - statsmodels
+  - requests
   - pip=9.0.1
   - pip:
     - xgboost==0.6a2
