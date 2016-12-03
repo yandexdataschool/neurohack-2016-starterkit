@@ -68,6 +68,9 @@ subject_id, chunk_id, tick, class_0_score, class_1_score, class_2_score
 import scipy.io
 import matplotlib.pylab as plt
 
+from mpl_toolkits.mplot3d import Axes3D
+%matplotlib notebook
+
 l = scipy.io.loadmat('electrode_locations_besa_unit_sphere.mat')
 
 fig = plt.figure(figsize=(8,6))
