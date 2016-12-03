@@ -119,7 +119,7 @@ class YaContestSubmitter(object):
                 problem_title,
                 PROBLEM_TITLES
             ))
-        if problem_title != INTERACTIVE_PROBLEM and compiler_id not in COMPILERS:
+        if problem_title == INTERACTIVE_PROBLEM and compiler_id not in COMPILERS:
             raise ValueError("Bad compiler_id {}, should be one of {}".format(
                 compiler_id,
                 COMPILERS
