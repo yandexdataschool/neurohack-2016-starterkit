@@ -9,7 +9,7 @@
 
 Клонируйте репозиторий:
 ```
-git clone https://github.com/yandexdataschool/neurohack_dec_2016 && cd neurohack_dec_2016
+git clone https://github.com/yandexdataschool/neurohack-2016-starterkit && cd neurohack-2016-starterkit
 ```
 
 Если вы используете Docker, то вам будет удобно использовать наш образ, в котором уже настроены окружения в соответствии с
